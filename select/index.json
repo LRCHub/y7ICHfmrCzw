@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Save Your Tears",
+  "base_artist": "ザ・ウィークエンド",
+  "createdAt": "2026-03-31T21:40:55.612656Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/01_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Save Your Tears (with Ariana Grande) (Remix)",
+      "artist": "The Weeknd feat. Ariana Grande",
+      "has_synced": true,
+      "path": "select/02_Save_Your_Tears_(with_Ariana_Grande)_(Remix)_The_Weeknd_feat._Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "Kosheen",
+      "has_synced": true,
+      "path": "select/03_Save_Your_Tears_Kosheen.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Save Your Tears (OPN Remix)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/04_Save_Your_Tears_(OPN_Remix)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Save Your Tears (Remix)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_Save_Your_Tears_(Remix)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Save Your Tears (Remix)",
+      "artist": "The Weeknd, Ariana Grande",
+      "has_synced": true,
+      "path": "select/06_Save_Your_Tears_(Remix)_The_Weeknd,_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/07_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Save Your Tears (Sped Up)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Save_Your_Tears_(Sped_Up)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "Astrophysics",
+      "has_synced": true,
+      "path": "select/09_Save_Your_Tears_Astrophysics.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/10_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Save Your Tears (Remix) [Bonus Track]",
+      "artist": "The Weeknd, Ariana Grande",
+      "has_synced": true,
+      "path": "select/11_Save_Your_Tears_(Remix)_[Bonus_Track]_The_Weeknd,_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/12_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/13_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Smashing Pumpkins",
+      "has_synced": true,
+      "path": "select/14_Save_Your_Tears_The_Smashing_Pumpkins.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Save Your Tears (Remix)",
+      "artist": "The Weeknd, Ariana Grande",
+      "has_synced": true,
+      "path": "select/15_Save_Your_Tears_(Remix)_The_Weeknd,_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd, Ariana Grande",
+      "has_synced": true,
+      "path": "select/16_Save_Your_Tears_The_Weeknd,_Ariana_Grande.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/17_Save_Your_Tears_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Save Your Tears",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_Save_Your_Tears_The_Weeknd.txt"
+    }
+  ]
+}
